@@ -1,0 +1,5 @@
+elevenlabs
+Groq
+python-dotenv
+agno
+streamlit
